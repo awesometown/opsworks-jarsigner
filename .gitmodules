@@ -1,0 +1,24 @@
+[submodule "jetty"]
+	path = jetty
+	url = git://github.com/opscode-cookbooks/jetty.git
+[submodule "java"]
+	path = java
+	url = git://github.com/socrata-cookbooks/java
+[submodule "jpackage"]
+	path = jpackage
+	url = git://github.com/opscode-cookbooks/jpackage.git
+[submodule "openssl"]
+	path = openssl
+	url = git://github.com/opscode-cookbooks/openssl.git
+[submodule "chef-android-sdk"]
+	path = chef-android-sdk
+	url = git://github.com/gildegoma/chef-android-sdk.git
+[submodule "ark"]
+	path = ark
+	url = git://github.com/opscode-cookbooks/ark.git
+[submodule "cookbook-curl"]
+	path = cookbook-curl
+	url = git://github.com/retr0h/cookbook-curl.git
+[submodule "s3_file"]
+	path = s3_file
+	url = git://github.com/adamsb6/s3_file.git
